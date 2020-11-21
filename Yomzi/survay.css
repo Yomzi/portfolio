@@ -1,0 +1,23 @@
+body{
+  background-color:#87CEEB;
+  margin-right:20%;
+  margin-left:20%;
+}
+
+p{
+  font-family:sans-serif;
+}
+
+@media (min-width: 720px){
+.contacts{
+  background-color:#00022e;
+  color:white;
+margin-left:10px;
+  margin-right:10px;
+  width:auto;
+  display:flex;
+  justify-content:space-around;
+}  
+}
+
+
